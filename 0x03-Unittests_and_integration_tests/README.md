@@ -1,0 +1,1 @@
+Unit Testing is a kind of white box testing, whereas Integration Testing is a kind of black-box testing. For Unit Testing, accessibility of code is required, as it tests the written code, while for Integration Testing, access to code is not required, since it tests the interactions and interfaces between modules.
